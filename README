@@ -10,4 +10,4 @@ How to use :
 Command  python quechua_stemmer_v0.9.py <infile>
 
 Input : list of suffixed Quechua words
-Output : the input word, its root, its part-of-speech
+Output : the input word, its root, its part-of-speech (if in lexicon), its phonological scheme (if valid)
